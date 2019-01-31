@@ -7,3 +7,5 @@ users [appschema] 2019-01-31T06:01:14Z Salman <slmn.sttr.65@gmail.com> # creates
 insert_user [users appschema] 2019-01-31T06:12:19Z Salman <slmn.sttr.65@gmail.com> # function to insert users
 change_pass [users appschema] 2019-01-31T06:12:37Z Salman <slmn.sttr.65@gmail.com> # function to change user password
 @v1.0.0-dev1 2019-01-31T07:14:13Z Salman <slmn.sttr.65@gmail.com> # tag v1.0.0-dev1
+
+flips [appschema users] 2019-01-31T07:23:58Z Salman <slmn.sttr.65@gmail.com> # add table for flips
