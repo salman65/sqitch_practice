@@ -11,3 +11,4 @@ change_pass [users appschema] 2019-01-31T06:12:37Z Salman <slmn.sttr.65@gmail.co
 flips [appschema users] 2019-01-31T07:23:58Z Salman <slmn.sttr.65@gmail.com> # add table for flips
 insert_flips [flips] 2019-01-31T07:32:41Z Salman <slmn.sttr.65@gmail.com> # function to insert flips
 delete_flips [flips] 2019-01-31T07:32:57Z Salman <slmn.sttr.65@gmail.com> # function to delete flips
+@v1.0.0-dev2 2019-01-31T08:07:54Z Salman <slmn.sttr.65@gmail.com> # tag v1.0.0-dev2
