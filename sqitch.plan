@@ -1,6 +1,6 @@
 %syntax-version=1.0.0
 %project=flipr
-%uri=git@github.com:salman65/sqitch_practice.git
+%uri=https://github.com/salman65/sqitch_practice.git
 
 appschema 2019-01-30T17:02:58Z Salman <slmn.sttr.65@gmail.com> # Add schema
 users [appschema] 2019-01-31T06:01:14Z Salman <slmn.sttr.65@gmail.com> # creates users table in flipr schema
