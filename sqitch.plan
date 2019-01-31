@@ -12,3 +12,7 @@ flips [appschema users] 2019-01-31T07:23:58Z Salman <slmn.sttr.65@gmail.com> # a
 insert_flips [flips] 2019-01-31T07:32:41Z Salman <slmn.sttr.65@gmail.com> # function to insert flips
 delete_flips [flips] 2019-01-31T07:32:57Z Salman <slmn.sttr.65@gmail.com> # function to delete flips
 @v1.0.0-dev2 2019-01-31T08:07:54Z Salman <slmn.sttr.65@gmail.com> # tag v1.0.0-dev2
+
+pgcrypto 2019-01-31T08:20:37Z Salman <slmn.sttr.65@gmail.com> # add pgcrypto extension
+insert_user [insert_user@v1.0.0-dev2 pgcrypto] 2019-01-31T08:24:39Z Salman <slmn.sttr.65@gmail.com> # update insert user to use pgcrypto
+change_pass [change_pass@v1.0.0-dev2 pgcrypto] 2019-01-31T08:36:48Z Salman <slmn.sttr.65@gmail.com> # update change pass to use pgcrypto
