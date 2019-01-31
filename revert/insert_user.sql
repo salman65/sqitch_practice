@@ -2,6 +2,6 @@
 
 BEGIN;
 
-drop function flipr.create_user(text, text);
+drop function flipr.insert_user(text, text);
 
 COMMIT;
