@@ -3,3 +3,6 @@
 %uri=git@github.com:salman65/sqitch_practice.git
 
 appschema 2019-01-30T17:02:58Z Salman <slmn.sttr.65@gmail.com> # Add schema
+users [appschema] 2019-01-31T06:01:14Z Salman <slmn.sttr.65@gmail.com> # creates users table in flipr schema
+insert_user [users appschema] 2019-01-31T06:12:19Z Salman <slmn.sttr.65@gmail.com> # function to insert users
+change_pass [users appschema] 2019-01-31T06:12:37Z Salman <slmn.sttr.65@gmail.com> # function to change user password
